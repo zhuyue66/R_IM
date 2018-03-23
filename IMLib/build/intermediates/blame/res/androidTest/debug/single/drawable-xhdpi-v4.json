@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\andriodstudio\\Rongyun\\IMLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\战神\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\054711b3449f4605a41b1e4b4d2dbbcc\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\andriodstudio\\Rongyun\\IMLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\战神\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\054711b3449f4605a41b1e4b4d2dbbcc\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\andriodstudio\\Rongyun\\IMLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\战神\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\054711b3449f4605a41b1e4b4d2dbbcc\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\andriodstudio\\Rongyun\\IMLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\战神\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\054711b3449f4605a41b1e4b4d2dbbcc\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\andriodstudio\\Rongyun\\IMLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\战神\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\054711b3449f4605a41b1e4b4d2dbbcc\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]
