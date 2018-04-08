@@ -1,23 +1,23 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
-INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
-INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
-INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
-INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
-INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
-INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
+ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
 	package
 		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:3:5-28
 		INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml
 		INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml
-		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
+		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
 		INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml
-		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-88:12
+		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:1-99:12
 		INJECTED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:2:11-69
@@ -94,7 +94,7 @@ ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:26:5-75
 	android:name
 		ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:26:22-73
 application
-ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:28:5-86:19
+ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:28:5-97:19
 activity#io.rong.imkit.plugin.location.AMapLocationActivity
 ADDED from F:\andriodstudio\Rongyun\IMKit\src\main\AndroidManifest.xml:30:9-87
 	android:name
